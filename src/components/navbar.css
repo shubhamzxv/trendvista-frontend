@@ -1,0 +1,29 @@
+/* color for navbar header */
+.bg-header {
+    background-color: #1b244d;
+}
+/* main theams color */
+.bg-theam{
+    background-color: #ffcc57 !important;
+}
+.text-theam{
+    color: #ffcc57 !important;
+}
+
+.active{
+    background-color: yellowgreen !important;
+    border-radius: 0% !important;
+}
+
+/* Border radius for bottom left */
+.bdr-btl {
+    border-radius: 0;
+    border-bottom-left-radius: 10px;
+    max-width: 280px;
+}
+
+/* Border radius for top right */
+.bdr-tpr {
+    border-radius: 0;
+    border-top-right-radius: 10px;
+}
